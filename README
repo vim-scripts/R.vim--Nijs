@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2104
+
+This script is a related to vimscript#1048. However, it only works only on Mac OS X and does not require funnel.pl (vimscript#221) or any other code. It uses AppleScript embedded in the R.vim file to send selected lines of code to an R buffer (press <F3>). It is also possible to have all code in a buffer run using R to get the output back as an output buffer in vim (press <F4> or <F5>). In addition you can comment in/out lines of code with 'mc'.
